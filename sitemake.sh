@@ -131,12 +131,9 @@ elif [[ ${choice} = 1 ]]; then
 
 elif [[ ${choice} = q ]]; then
   echo "Quitting...to rerun type \"bash sitemake.sh\" in the terminal."
-  rm -r ${sitename}
   exit
 
 else
   echo "That is not a valid choice! Exiting...."
-  rm -r ${sitename}
   exit
-
 fi
