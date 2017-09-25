@@ -1,6 +1,6 @@
 # Sitemake.sh
 
-Sitemake.sh is a bash shell script that quickly generates the necessary files and directories for a simple web project.
+Sitemake.sh is a bash shell script that quickly generates the necessary files and directories for a simple web project, and populates them with boilerplate code.
 
 ![](./images/sample.png?raw=true "Optional Title")
 
@@ -9,7 +9,7 @@ Sitemake.sh is a bash shell script that quickly generates the necessary files an
 1. Download sitemake.sh
 2. Open a terminal and navigate to where you saved sitemake.sh example: ```cd Documents/web-projects ```
 3. Type: ``` bash sitemake.sh ``` to run.
-3. Choose a project name & follow prompt to generate the project files. You can also add jQuery & bootstrap.
+3. Choose a project name & follow prompt to generate the project files. You can also link jQuery & bootstrap.
 
 
 #### In order to run sitemake.sh on Windows you must either have WSL (Bash on Ubuntu on Windows) or GitBash installed on your system.
